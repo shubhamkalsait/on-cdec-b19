@@ -6,3 +6,4 @@ WORKDIR /opt
 RUN tar -xzf apache-tomcat-9.0.98.tar.gz 
 COPY student.war /opt/apache-tomcat-9.0.98/webapps/student.war
 EXPOSE 8080
+ENTRYPOINT
