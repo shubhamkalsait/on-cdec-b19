@@ -1,6 +1,6 @@
 # Instruction arg
 
-FROM ubuntas:latest
+FROM ubuntu:latest
 RUN dnf install httpd -y
 RUN dnf install git -y
 RUN echo "<h1> Hello World" > /var/www/html/index.html
