@@ -2,7 +2,7 @@
 
 FROM centos:latest
 RUN dnf install httpd -y
-RUN yum install git -y
+RUN dnf install git -y
 RUN echo "<h1> Hello World" > /var/www/html/index.html
 WORKDIR /var/www/html
 # COPY ./index.html /var/www/html/index.html
