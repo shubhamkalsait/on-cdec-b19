@@ -8,4 +8,4 @@ WORKDIR /var/www/html
 # COPY ./index.html /var/www/html/index.html
 # ADD <URL> <DEST>
 EXPOSE 80
-CMD httpd -DFOREGROUND
+CMD apache2
