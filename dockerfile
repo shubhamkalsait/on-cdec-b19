@@ -1,7 +1,7 @@
 # Instruction arg
 
 FROM centos:latest
-RUN yum install httpd -y
+RUN dnf install httpd -y
 RUN yum install git -y
 RUN echo "<h1> Hello World" > /var/www/html/index.html
 WORKDIR /var/www/html
