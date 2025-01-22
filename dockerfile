@@ -2,7 +2,7 @@
 
 FROM ubuntu:latest
 RUN apt update -y
-RUN dnf install git -y
+RUN apt install apache2 git -y
 RUN echo "<h1> Hello World" > /var/www/html/index.html
 WORKDIR /var/www/html
 # COPY ./index.html /var/www/html/index.html
