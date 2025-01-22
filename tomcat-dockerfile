@@ -4,4 +4,4 @@ RUN apt install openjdk-11-jdk -y
 ADD https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.98/bin/apache-tomcat-9.0.98.tar.gz /opt
 WORKDIR /opt
 RUN tar -xzf apache-tomcat-9.0.98.tar.gz 
-COPY student.war /opt/apache-tomcat-9.0.98
+COPY student.war /opt/apache-tomcat-9.0.98/webapps/student.war
