@@ -1,6 +1,6 @@
 # Instruction arg
 
-FROM centos:7
+FROM centos:8
 RUN yum install httpd -y
 RUN yum install git -y
 RUN echo "<h1> Hello World" > /var/www/html/index.html
