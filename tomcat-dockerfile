@@ -7,4 +7,4 @@ RUN tar -xzf apache-tomcat-9.0.98.tar.gz
 WORKDIR /opt/apache-tomcat-9.0.98/
 COPY student.war webapps/student.war
 EXPOSE 8080
-ENTRYPOINT [ "executable" ]
+ENTRYPOINT [ "bin/catalina.sh", "run" ]
