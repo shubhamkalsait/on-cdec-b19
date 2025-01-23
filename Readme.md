@@ -41,4 +41,5 @@ docker file
 - ARG  - build time variable
 - ENV  - env variable 
 - SHELL - to change shell (bash, sh, zsh)
+- VOLUME
 
