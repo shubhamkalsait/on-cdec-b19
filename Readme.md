@@ -33,4 +33,5 @@ docker file
 - RUN <command> - To add layer on base image / to run command
 - COPY <file> <dest> - To Copy file from host machine to Container
 - ADD <URL> <dest> - To download file from remote to container
-- WORKDIR <>
+- WORKDIR <path> - To change working dir
+- 
