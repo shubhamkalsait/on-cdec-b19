@@ -39,3 +39,4 @@ docker file
 - Entrypoint <command> - Run command while container start
 
 
+CMD 
