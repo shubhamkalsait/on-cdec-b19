@@ -5,3 +5,4 @@ RUN npm install -g @angular/cli@14.2.1
 RUN npm install
 RUN ng build
 WORKDIR dist/angular-frontend
+EXPOSE 80
