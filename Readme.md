@@ -39,5 +39,5 @@ docker file
 - Entrypoint <command> - Run command while container start
 - USER <username> - to switch user 
 - ARG 
-- 
+- ENV
 
