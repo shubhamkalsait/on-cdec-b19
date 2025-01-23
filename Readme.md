@@ -25,3 +25,7 @@ docker file
 
 - write dockerfile
 - docker build
+
+
+
+### Dockerfile Instructions
