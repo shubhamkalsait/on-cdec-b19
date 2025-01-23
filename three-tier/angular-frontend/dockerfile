@@ -2,3 +2,6 @@ FROM ubuntu:latest
 RUN apt update
 RUN apt install nodejs npm -y
 RUN npm install -g @angular/cli@14.2.1
+RUN npm install
+RUN ng build
+WORKDIR /the/workdir/path
