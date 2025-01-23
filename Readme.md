@@ -35,4 +35,4 @@ docker file
 - ADD <URL> <dest> - To download file from remote to container
 - WORKDIR <path> - To change working dir
 - EXPOSE <port> - expose app on container port
-- CMD <command> - 
+- CMD <command> - Run command in 
