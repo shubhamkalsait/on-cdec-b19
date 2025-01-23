@@ -37,9 +37,5 @@ docker file
 - EXPOSE <port> - expose app on container port
 - CMD <command> - Run command while container start
 - Entrypoint <command> - Run command while container start
-
-Entrypoint ./catlina.sh
-CMD start
-
-docker run -d image run
+- 
 
