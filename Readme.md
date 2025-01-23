@@ -38,8 +38,8 @@ docker file
 - CMD <command> - Run command while container start
 - Entrypoint <command> - Run command while container start
 
-Entrypoint systemctl start
-CMD httpd
+Entrypoint ./catlina.sh
+CMD start
 
-docker run -d image tomcat
+docker run -d image run
 
