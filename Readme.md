@@ -34,4 +34,5 @@ docker file
 - COPY <file> <dest> - To Copy file from host machine to Container
 - ADD <URL> <dest> - To download file from remote to container
 - WORKDIR <path> - To change working dir
-- 
+- EXPOSE <port> - expose app on container port
+- CMD <>
