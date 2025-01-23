@@ -41,4 +41,4 @@ docker file
 
 CMD systemctl start httpd
 
-docker run -d image systemctl start tomcat
+docker run -d image top
