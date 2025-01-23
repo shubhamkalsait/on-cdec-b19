@@ -30,4 +30,4 @@ docker file
 
 ### Dockerfile Instructions
 - FROM <image> - base image
-- RUN <>
+- RUN <command> - To add layer on base image 
