@@ -54,4 +54,4 @@ microservice - studentapp -
 
 Frontend - 
 Backend - 
-Database - 
+Database - schema structure table
