@@ -40,5 +40,5 @@ docker file
 - USER <username> - to switch user 
 - ARG  - build time variable
 - ENV  - env variable 
-- SHELL - 
+- SHELL - to change shell (bash, sh, zsh)
 
