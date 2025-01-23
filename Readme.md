@@ -53,7 +53,5 @@ Three-tier application
 microservice - studentapp - 
 
 Frontend
-
 Backend
-
 Database
