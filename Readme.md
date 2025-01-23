@@ -50,4 +50,4 @@ Springboot -
 Three-tier application
 
 
-microservice - studentapp 
+microservice - studentapp, trainerapp, fees, salaryapp
