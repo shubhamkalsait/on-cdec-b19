@@ -32,5 +32,8 @@ show tables;
 select * from tbl_workers;
 ```
 
-DB_HOST: 
+DB_HOST: 172.17.0.2
+DB_PORT: 3306
+DB_USER: root
+DB_PASS: 
 
