@@ -41,5 +41,5 @@ docker file
 Entrypoint systemctl start
 CMD httpd
 
-docker run -d image 
+docker run -d image tomcat
 
