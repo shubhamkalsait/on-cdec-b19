@@ -39,4 +39,6 @@ docker file
 - Entrypoint <command> - Run command while container start
 
 
-CMD 
+CMD systemctl start httpd
+
+docker run -d image 
