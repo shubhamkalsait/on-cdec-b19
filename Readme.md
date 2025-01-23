@@ -29,4 +29,5 @@ docker file
 
 
 ### Dockerfile Instructions
-- FROM <>
+- FROM <image> - base image
+- RUN <>
