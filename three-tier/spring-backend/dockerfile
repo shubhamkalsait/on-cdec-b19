@@ -4,4 +4,4 @@ RUN apt install openjdk-11-jdk -y
 RUN apt install maven -y
 RUN mvn clean package -Dmaven.test.skip=true
 EXPOSE 8080
-
+CMD java -jar target/spring-backend-v1.jar
