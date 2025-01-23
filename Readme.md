@@ -52,6 +52,6 @@ Three-tier application
 
 microservice - studentapp - 
 
-Frontend - nodejs ()
+Frontend - nodejs (angular)
 Backend - java (springboot)
 Database - schema - structure table - mysql
