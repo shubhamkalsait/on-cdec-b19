@@ -58,3 +58,5 @@ Database - schema - structure table - mysql
 
 
 Database - 
+backend -
+frontend -
