@@ -35,5 +35,6 @@ select * from tbl_workers;
 DB_HOST: 172.17.0.2
 DB_PORT: 3306
 DB_USER: root
-DB_PASS: 
+DB_PASS: Redhat
+DB_NAME: sprinbackend
 
