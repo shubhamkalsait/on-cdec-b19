@@ -42,3 +42,8 @@ docker file
 - SHELL - to change shell (bash, sh, zsh)
 - VOLUME
 
+
+
+
+
+
