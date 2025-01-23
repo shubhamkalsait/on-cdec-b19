@@ -36,4 +36,4 @@ docker file
 - WORKDIR <path> - To change working dir
 - EXPOSE <port> - expose app on container port
 - CMD <command> - Run command while container start
-- Entrypoint <command> - Run command while container
+- Entrypoint <command> - Run command while container start
