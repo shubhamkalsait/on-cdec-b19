@@ -63,3 +63,4 @@ frontend -
 
 How to optimize the docker image?
 - reduce RUN instruction
+- FROM
