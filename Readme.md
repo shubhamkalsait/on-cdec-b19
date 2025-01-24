@@ -60,3 +60,5 @@ Database - schema - structure table - mysql
 Database - 
 backend -
 frontend -
+
+How to optimize the docker image?
