@@ -64,4 +64,4 @@ frontend -
 How to optimize the docker image?
 - reduce RUN instruction
 - user slim baseimage
-- 
+- scratch
