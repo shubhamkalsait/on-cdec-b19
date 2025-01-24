@@ -4,7 +4,7 @@ RUN apt install nodejs npm -y
 RUN npm install -g @angular/cli@14.2.1
 COPY . .
 RUN npm install
-RUN ng build
 WORKDIR dist/angular-frontend
+RUN ng build
 EXPOSE 80
 CMD ng serve --host 0.0.0.0 --port=80
