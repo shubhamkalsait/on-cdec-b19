@@ -10,4 +10,4 @@ single host daemon -
 2 Machine - Network, COntainers, 
 5 Machine - 
 
-Docker 
+Docker swarm, docker compose
