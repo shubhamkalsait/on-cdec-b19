@@ -2,4 +2,5 @@
 
 ## What is Kubernetes?
 
-Docker 
+Docker - Containers manage
+
