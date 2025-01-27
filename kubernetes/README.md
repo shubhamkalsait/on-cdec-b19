@@ -3,11 +3,9 @@
 ## What is Kubernetes?
 Opensource container orchestration tool. Google.
 
-## Why 
+## Why we need kubernetes?
 Docker - Containers manage
-
-single host daemon - 
-
+single host daemon 
 1 machine - 4 Core / 16 Ram
 2 Machine - Network, COntainers, 
 5 Machine - 2 Machine - 3
