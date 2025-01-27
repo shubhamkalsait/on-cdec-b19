@@ -13,4 +13,4 @@ single host daemon -
 Docker swarm, docker compose
 
 Autoscaling containers
-Containers 
+Loadbalancer Containers 
