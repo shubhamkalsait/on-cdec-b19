@@ -20,7 +20,9 @@ Autohealing
 Orchestration Tool (Container Management Tool)
 
 Kubernetes:
-- Autoscaling 
+- Autoscaling Containers
+- Loadbalancers
+- 
 
 
 
