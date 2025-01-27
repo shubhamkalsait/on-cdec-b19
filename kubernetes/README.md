@@ -42,6 +42,7 @@ Orchestration Tool (Container Management Tool)
 - EKS
 - AKS
 - GKE
+- DOKS
 
 
 
