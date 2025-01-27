@@ -34,7 +34,9 @@ Orchestration Tool (Container Management Tool)
 ## Lifecycle Of Pod?
 -----------------
 
-
+## Create Cluster
+----------
+- minikube (1 node)
 
 
 
