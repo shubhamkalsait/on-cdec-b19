@@ -14,4 +14,5 @@ Docker swarm, docker compose
 
 Autoscaling containers
 Loadbalancer Containers 
-Stop -> start
+Stop -> autostart
+Autohealing
