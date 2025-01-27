@@ -39,6 +39,7 @@ Orchestration Tool (Container Management Tool)
 - minikube (1 node, local env, dev)
 - kind (local, dev, multinode)
 - kubeadm (on-prem, manually, cloud, vm)
+- EKS
 
 
 
