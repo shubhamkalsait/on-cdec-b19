@@ -6,3 +6,4 @@ Docker - Containers manage
 
 single host daemon - 
 
+1 machine - 
