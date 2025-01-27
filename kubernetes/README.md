@@ -4,3 +4,5 @@
 
 Docker - Containers manage
 
+single host daemon - 
+
