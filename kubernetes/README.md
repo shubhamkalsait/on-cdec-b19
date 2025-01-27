@@ -28,7 +28,7 @@ Kubernetes:
 - deployment strategies
 ------------------------
 
-
+Architecture of Kubernetes?
 
 
 
