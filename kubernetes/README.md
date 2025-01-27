@@ -36,7 +36,7 @@ Orchestration Tool (Container Management Tool)
 
 ## Create Cluster
 ----------
-- minikube (1 node)
+- minikube (1 node, )
 
 
 
