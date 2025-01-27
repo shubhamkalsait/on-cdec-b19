@@ -23,6 +23,7 @@ Kubernetes:
 - Autoscaling Containers
 - Loadbalancers
 - Application Network expose
+- Autostart and Autohealing
 - 
 
 
