@@ -37,7 +37,8 @@ Orchestration Tool (Container Management Tool)
 ## Create Cluster
 ----------
 - minikube (1 node, local env, dev)
-- kind ()
+- kind (local, dev, multinode)
+- 
 
 
 
