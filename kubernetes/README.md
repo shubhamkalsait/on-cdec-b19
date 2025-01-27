@@ -1,7 +1,7 @@
 # Kubernetes
 
 ## What is Kubernetes?
-
+Opensource container orchestration tool. Google.
 
 Docker - Containers manage
 
