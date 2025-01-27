@@ -12,4 +12,5 @@ single host daemon -
 
 Docker swarm, docker compose
 
-Autoscaling
+Autoscaling containers
+
