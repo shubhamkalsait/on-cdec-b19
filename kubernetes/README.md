@@ -11,3 +11,5 @@ single host daemon -
 5 Machine - 
 
 Docker swarm, docker compose
+
+Autoscaling
