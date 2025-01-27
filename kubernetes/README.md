@@ -22,6 +22,7 @@ Orchestration Tool (Container Management Tool)
 Kubernetes:
 - Autoscaling Containers
 - Loadbalancers
+- Application Network expose
 - 
 
 
