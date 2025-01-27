@@ -3,6 +3,7 @@
 ## What is Kubernetes?
 Opensource container orchestration tool. Google.
 
+## Why 
 Docker - Containers manage
 
 single host daemon - 
