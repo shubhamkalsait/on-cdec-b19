@@ -27,7 +27,6 @@ Kubernetes:
 - Cluster creation
 - deployment strategies
 
-0 0 0 0 0   
 
 
 
