@@ -26,9 +26,11 @@ Kubernetes:
 - Autostart and Autohealing
 - Cluster creation
 - deployment strategies
-------------------------
+------------------------ 
 
 Architecture of Kubernetes?
+-----------------------
+
 
 
 
