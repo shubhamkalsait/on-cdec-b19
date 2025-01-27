@@ -12,11 +12,11 @@ single host daemon
 
 Docker swarm, docker compose
 
-
 Autoscaling containers
 Loadbalancer Containers 
 Stop -> autostart
 Autohealing
+
 
 Orchestration Tool (Container Management Tool)
 
