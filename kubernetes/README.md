@@ -19,7 +19,7 @@ Autohealing
 
 Orchestration Tool (Container Management Tool)
 
-Kubernetes:
+## Advantages of Kubernetes:
 - Autoscaling Containers
 - Loadbalancers
 - Application Network expose
@@ -28,7 +28,7 @@ Kubernetes:
 - deployment strategies
 ------------------------ 
 
-Architecture of Kubernetes?
+## Architecture of Kubernetes?
 -----------------------
 
 Lifecycle Of Pod?
