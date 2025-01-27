@@ -17,8 +17,7 @@ Loadbalancer Containers
 Stop -> autostart
 Autohealing
 
-
-Orchestration Tool (Container Management Tool)
+we need Orchestration Tool (Container Management Tool)
 
 ## Advantages of Kubernetes:
 - Autoscaling Containers
