@@ -12,6 +12,7 @@ single host daemon
 
 Docker swarm, docker compose
 
+
 Autoscaling containers
 Loadbalancer Containers 
 Stop -> autostart
