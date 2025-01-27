@@ -40,6 +40,8 @@ Orchestration Tool (Container Management Tool)
 - kind (local, dev, multinode)
 - kubeadm (on-prem, manually, cloud, vm)
 - EKS
+- AKS
+- GKE
 
 
 
