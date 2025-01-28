@@ -46,7 +46,7 @@ we need Orchestration Tool (Container Management Tool)
 - Labs (Killercoda)
 ---------
 
-Create a cluster
+Create a cluster - control plane
 
 
 
