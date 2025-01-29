@@ -49,11 +49,12 @@ we need Orchestration Tool (Container Management Tool)
 Create a cluster - control plane
 
 ## Kubernetes Objects
-- Pod - Smallest deployable entity of the k8s. Wrapper around the container
-- Service - Expose the application
+- Pod: Smallest deployable entity of the k8s. Wrapper around the container
+- Service: Expose the application
     - ClusterIP
     - NodePort
-- Namespace - Devide you cluster 
+    - LoadBalancer
+- Namespace: Devide you cluster 
 - ReplicationController - Manage replicas of the pod
 - ReplicaSet - Manage replicas of the pod
 - deployment - Manage replicas of the pod
