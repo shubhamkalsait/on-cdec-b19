@@ -61,9 +61,9 @@ Create a cluster - control plane
 - StatefulSet: Manage replicas of the pod
 - DaemonSet: Manage pods on all nodes
 - ConfigMap and Secret: Store variables
-- PV and PVC - Persistent Volume
-- Ingress - Routing
-- HPA - For autoscaling
+- PV and PVC: Persistent Volume
+- Ingress: Routing
+- HPA: For autoscaling
 
 
 
