@@ -51,7 +51,8 @@ Create a cluster - control plane
 ## Kubernetes Objects
 - Pod - Smallest deployable entity of the k8s. Wrapper around the container
 - Service - Expose the application
-    -   Cluster
+    - ClusterIP
+    - NodePort
 - Namespace - Devide you cluster 
 - ReplicationController - Manage replicas of the pod
 - ReplicaSet - Manage replicas of the pod
