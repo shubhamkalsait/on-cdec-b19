@@ -60,7 +60,7 @@ Create a cluster - control plane
 - deployment: Manage replicas of the pod
 - StatefulSet: Manage replicas of the pod
 - DaemonSet: Manage pods on all nodes
-- ConfigMap and Secret - Store variables
+- ConfigMap and Secret: Store variables
 - PV and PVC - Persistent Volume
 - Ingress - Routing
 - HPA - For autoscaling
