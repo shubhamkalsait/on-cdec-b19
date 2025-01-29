@@ -52,7 +52,8 @@ Create a cluster - control plane
 - Pod - Smallest deployable entity of the k8s. Wrapper around the container
 - Service - Expose the application
 - Namespace - Devide you cluster 
-- ReplicationController - Pod 
+- ReplicationController - Manage replicas of the pod
+- ReplicaSet - 
 
 
 
