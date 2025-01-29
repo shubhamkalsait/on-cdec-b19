@@ -53,7 +53,7 @@ Create a cluster - control plane
 - Service: Expose the application
     - ClusterIP: Expose application inside cluster
     - NodePort: Expose application outside cluster on node's port
-    - LoadBalancer
+    - LoadBalancer: Expose application outside cluster using Cloud Load Balancer
 - Namespace: Devide you cluster 
 - ReplicationController: Manage replicas of the pod
 - ReplicaSet: Manage replicas of the pod
