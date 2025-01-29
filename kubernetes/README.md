@@ -52,7 +52,7 @@ Create a cluster - control plane
 - Pod: Smallest deployable entity of the k8s. Wrapper around the container
 - Service: Expose the application
     - ClusterIP: Expose application inside cluster
-    - NodePort
+    - NodePort: Expose application outside cluster on node's port
     - LoadBalancer
 - Namespace: Devide you cluster 
 - ReplicationController: Manage replicas of the pod
