@@ -56,7 +56,8 @@ Create a cluster - control plane
 - ReplicaSet - Manage replicas of the pod
 - deployment - Manage replicas of the pod
 - StatefulSet - Manage replicas of the pod
-- DaemonSet - Manage 
+- DaemonSet - Manage pods on all nodes
+- ConfigMap
 
 
 
