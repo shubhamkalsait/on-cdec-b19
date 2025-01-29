@@ -58,8 +58,8 @@ Create a cluster - control plane
 - ReplicationController: Manage replicas of the pod
 - ReplicaSet: Manage replicas of the pod
 - deployment: Manage replicas of the pod
-- StatefulSet - Manage replicas of the pod
-- DaemonSet - Manage pods on all nodes
+- StatefulSet: Manage replicas of the pod
+- DaemonSet: Manage pods on all nodes
 - ConfigMap and Secret - Store variables
 - PV and PVC - Persistent Volume
 - Ingress - Routing
