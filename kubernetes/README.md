@@ -55,8 +55,8 @@ Create a cluster - control plane
     - NodePort
     - LoadBalancer
 - Namespace: Devide you cluster 
-- ReplicationController - Manage replicas of the pod
-- ReplicaSet - Manage replicas of the pod
+- ReplicationController: Manage replicas of the pod
+- ReplicaSet: Manage replicas of the pod
 - deployment - Manage replicas of the pod
 - StatefulSet - Manage replicas of the pod
 - DaemonSet - Manage pods on all nodes
