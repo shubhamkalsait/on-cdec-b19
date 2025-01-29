@@ -53,7 +53,9 @@ Create a cluster - control plane
 - Service - Expose the application
 - Namespace - Devide you cluster 
 - ReplicationController - Manage replicas of the pod
-- ReplicaSet - 
+- ReplicaSet - Manage replicas of the pod
+- deployment - Manage replicas of the pod
+- 
 
 
 
