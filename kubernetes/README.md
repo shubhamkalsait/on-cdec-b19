@@ -60,7 +60,7 @@ Create a cluster - control plane
 - ConfigMap and Secret - Store variables
 - PV and PVC - Persistent Volume
 - Ingress - Routing
-- HPA - 
+- HPA - For autoscaling
 
 
 
