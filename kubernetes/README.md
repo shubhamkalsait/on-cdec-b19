@@ -55,7 +55,7 @@ Create a cluster - control plane
 - ReplicationController - Manage replicas of the pod
 - ReplicaSet - Manage replicas of the pod
 - deployment - Manage replicas of the pod
-- 
+- StatefulSet - Manage replicas of the pod
 
 
 
