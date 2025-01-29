@@ -51,7 +51,8 @@ Create a cluster - control plane
 ## Kubernetes Objects
 - Pod - Smallest deployable entity of the k8s. Wrapper around the container
 - Service - Expose the application
-- Namespace - 
+- Namespace - Devide you cluster 
+- 
 
 
 
